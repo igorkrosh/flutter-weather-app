@@ -5,6 +5,7 @@ const colorBackground = Color(0xFFffffff);
 const colorFontDefault = Color(0xFF000000);
 const colorFontSecondary = Color(0xFF8f8f8f);
 const colorElementHover = Color(0xFFebf3fe);
+const colorElementBlue = Color(0xFF016FEC);
 
 // * TEXT STYLE
 const textStyleFontDefault = TextStyle(fontSize: 16, fontFamily: 'Manrope');
